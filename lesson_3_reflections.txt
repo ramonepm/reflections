@@ -29,7 +29,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    If I needed to collaborate on a coding project I would probably use 
+    google drive or dropbox and keep a google docs file with the text 
+    of the code so we coulds see what changes had been made. This method 
+    would be tedious and it could be a hot spot for bugs. However, it could 
+    be a good way to collaborate with beginners or people who are not 
+    familiar with git and github. Using google docs would be much easier, 
+    at least at first, but also much less efficient.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
